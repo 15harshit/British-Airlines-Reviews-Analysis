@@ -161,11 +161,11 @@ This dashboard enables stakeholders to:
 
 ## 👨‍💻 Author
 
-##**Harshit Madan**
+## **Harshit Madan**
 
 Computer Science Engineering Undergraduate | Data Analytics Enthusiast
 
-##Skills
+## Skills
 
 Tableau
 Microsoft Excel
@@ -173,10 +173,10 @@ Data Analytics
 Business Intelligence
 Data Visualization
 
-#LinkedIn
+# LinkedIn
 
 www.linkedin.com/in/harshitmadan15
 
-#Tableau Public
+# Tableau Public
 
 https://public.tableau.com/app/profile/harshit.madan3531/
