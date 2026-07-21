@@ -173,10 +173,10 @@ Data Analytics
 Business Intelligence
 Data Visualization
 
-# LinkedIn
+## LinkedIn
 
 www.linkedin.com/in/harshitmadan15
 
-# Tableau Public
+## Tableau Public
 
 https://public.tableau.com/app/profile/harshit.madan3531/
