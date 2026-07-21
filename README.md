@@ -107,7 +107,7 @@ To analyze British Airways customer review data and develop an interactive Table
 
 ## 📷 Dashboard Screenshot
 
-[add screenshot here]
+![img_alt](https://github.com/15harshit/British-Airlines-Reviews-Analysis/blob/main/Dashboard%20Screenshot/Tableau%20British%20Airlines%20reviews%20.png)
 
 ---
 
