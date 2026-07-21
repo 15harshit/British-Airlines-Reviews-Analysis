@@ -14,8 +14,7 @@ The project analyzes a dataset containing 1,324 customer reviews (2016–2023) a
 
 ### Interactive Dashboard
 
-**Tableau Public Dashboard:** [your Tableau Public link here]
-
+**Tableau Public Dashboard:** (https://public.tableau.com/views/BritishAirwaysreviews_17844782627950/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## 📌 Project Overview
@@ -114,7 +113,7 @@ To analyze British Airways customer review data and develop an interactive Table
 
 ## 🔗 Tableau Public Dashboard
 
-[your Tableau Public link here]
+(https://public.tableau.com/views/BritishAirwaysreviews_17844782627950/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -162,146 +161,21 @@ This dashboard enables stakeholders to:
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Harshit Madan**
 
-[Your Title/Field, e.g. Data Analytics Enthusiast]
-
-### Skills
-
-- Python
-- Tableau
-- Data Cleaning
-- Data Analytics
-- Data Visualization
-
-### LinkedIn
-
-[your LinkedIn URL]
-
-### Tableau Public
-
-[your Tableau Public profile URL]KPI Development
-Dashboard Design in Tableau
-Satisfaction Trend Analysis
-Aircraft Performance Analysis
-Traveller Segment Analysis
-Geographic Performance Analysis
-Business Insight Generation
-
-🛠️ Tools & Technologies
-
-Tableau Public
-Python (pandas)
-Data Cleaning
-Data Visualization
-Business Analytics
-Dashboard Design
-KPI Development
-Correlation Analysis
-
-📊 Python Tasks Performed
-
-Date Parsing and Formatting
-Missing/Placeholder Value Handling
-Aircraft Name Standardization
-Country-to-Continent Data Enrichment (Table Join)
-Data Quality Verification
-Dataset Preparation for Analysis
-
-📊 Dashboard Overview
-
-Key Performance Indicators (KPIs)
-
-Avg. Overall Rating
-Avg. Cabin Staff Service
-Avg. Entertainment
-Avg. Food & Beverages
-Avg. Ground Service
-Avg. Seat Comfort
-Avg. Value for Money
-
-Visualizations
-
-Average Overall Rating by Month
-Average Overall Rating by Country (Map)
-Average Overall Rating by Aircraft
-Review Volume by Aircraft
-Filters by Traveller Type, Seat Type, Aircraft, and Continent
-
-📈 Key Business Insights
-
-Analyzed 1,324 customer reviews with an average overall rating of 4.19 out of 5.
-Only 43.2% of reviewers said they would recommend British Airways, despite a relatively high average rating.
-Satisfaction peaked in 2020 (4.84 avg) and declined sharply to 2.61 by 2023.
-The Boeing 747-400 emerged as the highest-rated aircraft, averaging 4.7 across 97 reviews.
-Business Class reviewers reported lower satisfaction (3.93) than Economy Class reviewers (4.36).
-Family Leisure travellers recorded the lowest average rating among all traveller segments.
-Value for Money showed the strongest correlation with recommendation likelihood (r = 0.78).
-
-📷 Dashboard Screenshot
-
-[add screenshot here]
-
-🔗 Tableau Public Dashboard
-
-[your Tableau Public link here]
-
-📁 Dataset
-
-British Airways Customer Reviews Dataset
-
-The dataset contains information including:
-
-Author
-Review Date
-Reviewer Country
-Aircraft
-Traveller Type
-Seat Type
-Route
-Date Flown
-Recommended (Yes/No)
-Trip Verified Status
-Overall Rating
-Seat Comfort
-Cabin Staff Service
-Food & Beverages
-Ground Service
-Value for Money
-Entertainment
-
-A secondary Countries dataset (Country, Code, Continent, Region) was joined to the reviews data to enable continent-level analysis.
-
-💡 Business Value
-
-This dashboard enables stakeholders to:
-
-Monitor overall customer satisfaction performance.
-Compare aircraft performance across the fleet.
-Identify high- and low-performing service categories.
-Analyze satisfaction across traveller types and seat classes.
-Evaluate which service factors most influence recommendations.
-Track satisfaction trends over time.
-Support data-driven service improvement decisions.
-
-👨‍💻 Author
-
-[Your Name]
-
-[Your Title/Field, e.g. Data Analytics Enthusiast]
+Computer Science Engineering Undergraduate | Data Analytics Enthusiast
 
 Skills
 
-Python
 Tableau
-Data Cleaning
+Microsoft Excel
 Data Analytics
+Business Intelligence
 Data Visualization
-
 LinkedIn
 
-[your LinkedIn URL]
+www.linkedin.com/in/harshitmadan15
 
 Tableau Public
 
-[your Tableau Public profile URL]
+https://public.tableau.com/app/profile/harshit.madan3531/
