@@ -167,11 +167,7 @@ Computer Science Engineering Undergraduate | Data Analytics Enthusiast
 
 ## Skills
 
-Tableau
-Microsoft Excel
-Data Analytics
-Business Intelligence
-Data Visualization
+Tableau | Microsoft Excel | Data Analytics | Business Intelligence | Data Visualization
 
 ## LinkedIn
 
